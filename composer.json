@@ -1,0 +1,11 @@
+{
+  "name": "wahfix/first",
+  "description": "A PHP package.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Lacevoid\\": "src/"
+    }
+  }
+}
